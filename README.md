@@ -13,8 +13,6 @@ I have worked on projects covering the full data lifecycle: from data extraction
 
 I am characterized by strong critical thinking, intellectual curiosity, and a proactive approach to transforming complex problems into analytical solutions. I work well in teams and can effectively communicate technical results to non-technical audiences, always aiming to create impact through data analysis.
 
-<br><br>
-
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/davidml2005_/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidricardomarquezluna/) 
