@@ -3,11 +3,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## About Me:
-Seventh-semester Data Science student at Universidad del Norte, with a focus on quantitative analysis, machine learning, and statistical modeling. I have advanced proficiency in Python and R, intermediate skills in Excel, working knowledge of SQL, and experience developing end-to-end data science solutions. Additionally, I hold a B2-level English certification (iTEP), which enables me to work with technical documentation and communicate in professional environments.
+Seventh-semester Data Science student at Universidad del Norte, with a focus on quantitative analysis, machine learning, and statistical modeling. I have advanced proficiency in Python and R, intermediate skills in Excel and Power BI, working knowledge of SQL, and experience developing end-to-end data science solutions. Additionally, I hold a B1-level English certification (iTEP), which enables me to work with technical documentation and communicate in professional environments.
 
 Throughout my academic training, I have developed the ability to build predictive models using regression, classification, clustering, and neural networks, leveraging tools such as scikit-learn, PySpark, and TensorFlow. I complement this with a strong foundation in applied statistics, enabling me to perform inference, model time series, and support data-driven decision-making.
 
-I also have experience in data analysis and visualization, creating both static and interactive visualizations using tools such as Matplotlib, Seaborn and Folium, as well as in the design and development of interactive dashboards using Dash and Streamlit, aimed at monitoring metrics, interpreting information, and supporting decision-making.
+I also have experience in data analysis and visualization, creating both static and interactive visualizations using tools such as Matplotlib, Seaborn, and Folium, as well as in the design and development of interactive dashboards using Dash and Streamlit, aimed at monitoring metrics, interpreting information, and supporting decision-making.
 
 I have worked on projects covering the full data lifecycle: from data extraction, cleaning, and transformation (ETL) to model building, validation, and interpretation. Additionally, I have knowledge in model deployment and MLOps, using tools such as Docker, FastAPI, and MLflow, allowing me to bring analytical solutions closer to production environments.
 
