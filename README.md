@@ -7,7 +7,7 @@ Seventh-semester Data Science student at Universidad del Norte, with a focus on 
 
 Throughout my academic training, I have developed the ability to build predictive models using regression, classification, clustering, and neural networks, leveraging tools such as scikit-learn, PySpark, and TensorFlow. I complement this with a strong foundation in applied statistics, enabling me to perform inference, model time series, and support data-driven decision-making.
 
-I also have experience in data analysis and visualization, creating both static and interactive visualizations using tools such as Matplotlib, Seaborn, and Folium, as well as in the design and development of interactive dashboards using Dash and Streamlit, aimed at monitoring metrics, interpreting information, and supporting decision-making.
+I also have experience in data analysis and visualization, creating both static and interactive visualizations using tools such as Matplotlib, Seaborn, and Plotly, as well as in the design and development of interactive dashboards using Dash and Streamlit, aimed at monitoring metrics, interpreting information, and supporting decision-making.
 
 I have worked on projects covering the full data lifecycle: from data extraction, cleaning, and transformation (ETL) to model building, validation, and interpretation. Additionally, I have knowledge in model deployment and MLOps, using tools such as Docker, FastAPI, and MLflow, allowing me to bring analytical solutions closer to production environments.
 
